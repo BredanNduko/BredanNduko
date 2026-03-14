@@ -1,11 +1,19 @@
-## Bnduko
+<h2 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Bnduko</span></h2>
 
-Software Developer Intern focused on building backend tools and solving problems with clean, efficient code.
+<p align="center">
+💻 <b>Software Developer Intern</b>
+</p>
 
-**Skills**
+<p align="center">
+🚀 Passionate about building efficient tools and solving problems with clean code.
+</p>
 
-* Go (Golang)
-* Git & GitHub
-* Linux / CLI
-* Data Structures & Algorithms
-* Command-line Application Development
+<h3>🛠️ Skills</h3>
+
+<p>
+<span style="color:#00ADD8;">● Go (Golang)</span><br>
+<span style="color:#F1502F;">● Git & GitHub</span><br>
+<span style="color:#FCC624;">● Linux / CLI</span><br>
+<span style="color:#8E44AD;">● Data Structures & Algorithms</span><br>
+<span style="color:#2ECC71;">● Command-line Application Development</span>
+</p>
